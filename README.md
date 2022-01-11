@@ -1,3 +1,14 @@
+# Disclaimer: THIS IS NOT MY WORK
+
+I only publish this because of we cannot install package via git:// now.
+However, the original author doesn't publish the latest changes to npm, which my projects
+are needed. Therefore, I decided to publish this package to under my own name so that
+it doesn't break my development flow
+
+Please refer to https://github.com/ptomasroos/react-native-multi-slider for the original work
+
+Huge thank to the @ptomasroos for this package.
+
 # react-native-multi-slider
 
 Pure JS react native slider component with one or two markers.
